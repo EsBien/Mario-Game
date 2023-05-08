@@ -1,0 +1,15 @@
+﻿  Animation.cpp
+  Entities.cpp
+  EntitiesPool.cpp
+  Graphics.cpp
+  HeroEntity.cpp
+  Observer.cpp
+  Physics.cpp
+  runner.cpp
+  pracrice.cpp
+  SlimeEntity.cpp
+  Timer.cpp
+C:\Users\Esther.LAPTOP-48096ABJ\Desktop\my Repo\MarioGame\Mario-Game\Game\Mario\Timer.cpp(12,37): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  Generating Code...
+C:\Users\Esther.LAPTOP-48096ABJ\Desktop\my Repo\MarioGame\Mario-Game\Game\Mario\Physics.cpp(170): warning C4172: returning address of local variable or temporary
+  Mario.vcxproj -> C:\Users\Esther.LAPTOP-48096ABJ\Desktop\my Repo\MarioGame\Mario-Game\Game\x64\Debug\Mario.exe
